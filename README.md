@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on recreate the game Donkey-Kong using Unity 
+- 🔭 I’m currently working on Donkey-Kong repository 
 - 🌱 I’m currently learning Docker
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kevinferl98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
