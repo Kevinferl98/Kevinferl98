@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Docker and Node.js
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kevinferl98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinferl98)](https://github.com/anuraghazra/github-readme-stats)
+
