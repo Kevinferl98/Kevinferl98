@@ -1,7 +1,5 @@
 ### Hello, I'm Kevin Ferlauto 👋
 
-##### I'm a student graduating in Computer Science at University of Catania
-
 <!--
 **Kevinferl98/Kevinferl98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Donkey-Kong repository 
-- 🌱 I’m currently learning Docker and Node.js
-
+- 🌱 I’m currently learning Docker, Node.js and Jenkins
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=Kevinferl98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
 
