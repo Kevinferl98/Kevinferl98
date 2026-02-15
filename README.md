@@ -27,6 +27,3 @@ Passionate about **Distributed Systems**, **Cloud**, and everything that involve
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Kevinferl98&show_icons=true&theme=tokyonight&count_private=true" height="195px" alt="Kevinferl98's GitHub stats" />
   <!--<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kevinferl98&layout=compact&theme=tokyonight&hide_progress=false" height="195px" alt="Kevinferl98's top languages" />-->
 </p>
-
-<!--### 📫 Connect with me
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)-->
